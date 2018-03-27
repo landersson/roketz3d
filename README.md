@@ -9,6 +9,8 @@ Roketz3D:
    is... hmmm, less than intuitive. After hours of practice though,
    it's possible to fly pretty well, and the feeling is quite
    nice. And after all, who said flying a rocket should be easy? :)
+   
+   https://vimeo.com/56525162
 
 
 Controls:
